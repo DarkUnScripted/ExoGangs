@@ -1,0 +1,14 @@
+name: ExoGangs
+author: DarkUnScripted
+version: 1.0.0-Alpha
+main: net.darkunscripted.ExoGangs.Main
+
+commands:
+  gang:
+    description: main gang command
+  crystal:
+    description: main crystal command
+  gangpoints:
+    description: main gangpoint command
+  points:
+    description: main points command
